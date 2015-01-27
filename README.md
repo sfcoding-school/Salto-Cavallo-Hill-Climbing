@@ -1,4 +1,6 @@
 # Salto Cavallo (Hill Climbing)
+## Progetto corso IA: Programmazione Funzionale
+
 Data una scacchiera NxN ed un cavallo posizionato su una casella trovare una
 sequenza di mosse che consenta al cavallo di occupare tutte le caselle delle
 scacchiera ciascuna esattamente una volta.
